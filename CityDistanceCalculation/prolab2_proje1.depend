@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1489274659 source:c:\users\sara\desktop\prolab 2\prolab2_proje1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<allegro.h>
+
+1489700246 source:c:\users\sara\desktop\prolab2 1.proje\prolab2_proje1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<allegro.h>
+
+1489703846 source:c:\users\sara\desktop\teslim\150201123_prolab2_proje1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<allegro.h>
+
+1490088628 source:c:\users\sara\desktop\prolab2\1\teslim\150201123_prolab2_proje1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<allegro.h>
+
+1490088628 source:d:\bölüm\kou\2.dönem\programlama laboratuvarý – ii\1\teslim\150201123_prolab2_proje1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<allegro.h>
+
+1492533769 source:c:\users\muham\desktop\prolab\güncellenen\1\150201123_prolab2_proje1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<allegro.h>
+
